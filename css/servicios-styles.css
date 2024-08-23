@@ -1,0 +1,77 @@
+.caja-grande {
+    background-color: rgb(222, 135, 236);
+    width: 90%;
+    height: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+* {
+    background-color: rgb(132, 220, 245);
+}
+
+body {
+    background-color: rgb(90, 16, 16);
+
+}
+.caja-pequeña-1{
+    width: 200px;
+    background-color: rgb(4, 78, 54);
+    height: 500px;
+    padding: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+   
+}
+.caja-pequeña-3{
+    padding: 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+    color: blue;
+}
+.caja-pequeña-1 p{
+    text-align: justify;
+    padding-right: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+ color: beige;
+}
+.caja-pequeña-1 h1{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    text-shadow: 3px 2px 2px white ;
+}
+.caja-pequeña-2{
+    width: 850px;
+    background-color: rgb(104, 29, 243);
+    height: 500px;
+}
+.caja-pequeña-3{
+    width: 200px;
+    background-color: rgb(106, 245, 93);
+    height: 500px;
+}
+.caja-pequeña-3 p{
+    text-align: justify;
+    padding-right: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+ color: beige;
+
+}
+.caja-pequeña-2 img{
+    margin-left: 20%;
+    margin-top: 30px;
+
+}
+
+.caja-pequeña-3 h1{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    text-shadow: 3px 2px 2px white ;
+}

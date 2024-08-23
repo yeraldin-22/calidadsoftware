@@ -1,0 +1,52 @@
+.caja-grande {
+    background-color: rgb(222, 135, 236);
+    width: 90%;
+    height: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+
+}
+
+* {
+    background-color: rgb(16, 154, 193);
+}
+
+body {
+    background-color: rgb(90, 16, 16);
+
+}
+
+.caja-pequeña1 {
+    background-color: blueviolet;
+    width: 80%;
+    height: 80%px;
+    border: 2px solid rgb(223, 85, 122)
+}
+
+.caja-pequeña1 img {
+    max-width: 50%;
+    max-height: 500%;
+    margin-left: 25%;
+
+}
+
+.caja-pequeña2 {
+    background-color: rgb(243, 12, 208);
+    width: 20%;
+    height: 500px;
+    border: 2px solid rgb(103, 8, 103);
+    padding: 15px;
+    text-align: justify;
+    overflow: hidden;
+    overflow-y: scroll;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.caja-pequeña2 h1{
+    text-align: center;
+    font-weight: bold;
+
+}
